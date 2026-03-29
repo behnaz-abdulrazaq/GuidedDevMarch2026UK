@@ -3,7 +3,7 @@
     "UId": "a7b646cd-55f2-4251-bdcd-8a41c8ce9156",
     "Name": "UsrYacht",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1774530186000)\/",
+    "ModifiedOnUtc": "\/Date(1774794286000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/UsrYacht.csproj",
     "DependsOn": [
@@ -11,6 +11,12 @@
         "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
         "PackageVersion": "7.8.0",
         "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
         "Type": 1
       }
     ]
